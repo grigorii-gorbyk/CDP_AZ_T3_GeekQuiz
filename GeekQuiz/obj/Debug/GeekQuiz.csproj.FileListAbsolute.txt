@@ -40,3 +40,46 @@ D:\CDP\Azure\T3\Azure Powershell  Home Task\GeekQuiz\bin\Microsoft.AspNet.Identi
 D:\CDP\Azure\T3\Azure Powershell  Home Task\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\CDP\Azure\T3\Azure Powershell  Home Task\GeekQuiz\obj\Debug\GeekQuiz.dll
 D:\CDP\Azure\T3\Azure Powershell  Home Task\GeekQuiz\obj\Debug\GeekQuiz.pdb
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\GeekQuiz.dll.config
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\GeekQuiz.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\GeekQuiz.pdb
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Antlr3.Runtime.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\EntityFramework.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\EntityFramework.SqlServer.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.Web.Infrastructure.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Newtonsoft.Json.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.IdentityModel.Tokens.ValidatingIssuerNameRegistry.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Net.Http.Formatting.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Helpers.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Http.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Http.WebHost.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Mvc.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Optimization.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Razor.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.Deployment.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.Razor.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\WebGrease.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Helpers.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Mvc.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Optimization.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Razor.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.Deployment.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.WebPages.Razor.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Antlr3.Runtime.pdb
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Newtonsoft.Json.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Net.Http.Formatting.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Http.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\System.Web.Http.WebHost.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\EntityFramework.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\EntityFramework.SqlServer.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\obj\Debug\GeekQuiz.csprojResolveAssemblyReference.cache
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\obj\Debug\GeekQuiz.dll
+D:\CDP\Azure\T3\GitHub_GeekQueez\GeekQuiz\obj\Debug\GeekQuiz.pdb
