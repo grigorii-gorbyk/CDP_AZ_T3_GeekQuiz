@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:azurelabdb.database.windows.net,1433;Initial Catalog=epamazurelab_db;User Id=epamazurelab@azurelabdb;Password=14or@llAnd@ll4or1" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\CDP\\Azure\\T3\\Azure\ Powershell\ \ Home\ Task\\GeekQuiz\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
