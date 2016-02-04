@@ -1,6 +1,0 @@
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\bin\Debug\UnitTests.dll
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\bin\Debug\UnitTests.pdb
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\obj\Debug\UnitTests.dll
-D:\CDP\Azure\T3\GitHub_GeekQueez\UnitTests\obj\Debug\UnitTests.pdb
