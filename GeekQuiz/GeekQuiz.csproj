@@ -181,8 +181,6 @@
     <Content Include="Scripts\app\quiz-controller.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <None Include="Properties\PublishProfiles\deployment.pubxml" />
-    <None Include="Properties\PublishProfiles\epamazurelab.pubxml" />
     <None Include="Properties\PublishProfiles\GeekQuiz7420.pubxml" />
     <Content Include="Scripts\angular.min.js.map" />
     <Content Include="Properties\PublishProfiles\Visual Studio Professional with MSDN-2-9-2016-credentials.publishsettings" />
