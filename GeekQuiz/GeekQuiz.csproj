@@ -185,7 +185,8 @@
     <None Include="Properties\PublishProfiles\epamazurelab.pubxml" />
     <None Include="Properties\PublishProfiles\GeekQuiz7420.pubxml" />
     <Content Include="Scripts\angular.min.js.map" />
-    <None Include="Properties\PublishProfiles\webSitegbs52xwhgtc6e - Web Deploy.pubxml" />
+    <Content Include="Properties\PublishProfiles\Visual Studio Professional with MSDN-2-9-2016-credentials.publishsettings" />
+    <None Include="Properties\PublishProfiles\webSitecgr6zaz7oy3h6.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
