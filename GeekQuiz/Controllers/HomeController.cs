@@ -31,6 +31,16 @@ namespace GeekQuiz.Controllers
         //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
 
 
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+        //m2 m2 m2 m2 m2 m2 m2 m2 m2 m2
+
+
 
         private const string TenantIdClaimType = "http://schemas.microsoft.com/identity/claims/tenantid";
         private const string LoginUrl = "https://login.windows.net/{0}";
