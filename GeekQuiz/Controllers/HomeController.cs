@@ -21,6 +21,17 @@ namespace GeekQuiz.Controllers
     [Authorize]
     public class HomeController : Controller
     {
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+        //m1 m1 m1 m1 m1 m1 m1 m1 m1 m1
+
+
+
         private const string TenantIdClaimType = "http://schemas.microsoft.com/identity/claims/tenantid";
         private const string LoginUrl = "https://login.windows.net/{0}";
         private const string GraphUrl = "https://graph.windows.net";
